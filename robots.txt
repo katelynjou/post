@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://katelynjou.github.io/post/sitemap.xml
